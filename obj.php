@@ -10,7 +10,7 @@ $obj1 = new ShopProductor();
 $obj2 = new ShopProductor();
 var_dump($obj1);
 var_dump($obj2);
-
+var_dump($obj2);
 class ShopProductor {
 
     function __construct() {
